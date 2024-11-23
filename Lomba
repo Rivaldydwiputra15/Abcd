@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animasi Logo dan Teks</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Animasi Logo -->
+        <img src="logo.jpg" alt="Logo GEC" class="logo">
+        
+        <!-- Animasi Teks -->
+        <h1 class="animated-text">THE GOLDEN MATH</h1>
+    </div>
+</body>
+</html>
+￼Enter
